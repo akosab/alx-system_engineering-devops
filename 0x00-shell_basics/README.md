@@ -1,1 +1,1 @@
-1-listit displays the contents lists of the current working directory
+2-bring_me_home changes the working directory to the user’s home directory 
